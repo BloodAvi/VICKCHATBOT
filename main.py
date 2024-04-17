@@ -40,8 +40,8 @@ async def start(client, message):
     if message.chat.type != "private":
         buttons = [
                   [
-                   InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs", url="https://t.me/BRANDRD_BOT"),
-                   InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/BRANDED_WORLD"),
+                   InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs", url="https://t.me/BLOODAVI"),
+                   InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/THEROOMOFSECRET"),
                   ]       
                   ]
         await message.reply("ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ɪɴ ᴘᴇʀsᴏɴᴀʟ",
